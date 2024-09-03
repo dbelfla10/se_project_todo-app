@@ -1,6 +1,7 @@
-# Simple Todo App
+# The Simple ToDo App
 
-Give a brief description of the project here. Feel free to give it a different name.
+To-do is a concept app that allow users to set up tasks to complete with their corresponding due dates.
+![ToDo App](./images/demo/toDoApp.png)
 
 ## Functionality
 
@@ -12,6 +13,6 @@ Give a description of the technologies and techniques used. Pictures, GIFs, or s
 
 ## Deployment
 
-This project is deployed on GitHub Pages:
+This webpage is deployed to GitHub Pages
 
-- ADD LINK HERE
+- https://dbelfla10.github.io/se_project_todo-app/
