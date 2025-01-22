@@ -2,17 +2,17 @@
 
 To-do is a concept app that allow users to set up tasks to complete with their corresponding due dates.
 
-![ToDo App](./images/demo/toDoApp.png)
+![ToDo App](./images/demo/toDoApp.jpg)
 
 ## Functionality
 
 - Users can fill the Add Todo form with the name of the task and the due date
 
-![Todo Form](./images/demo/AddTodoForm.png)
+![Todo Form](./images/demo/AddTodoForm.jpg)
 
 - Todos can be checked or deleted by pressing the buttons.
 
-![Todos list](./images/demo/Todo%20list.png)
+![Todos list](./images/demo/Todo%20list.jpg)
 
 ## Technology
 
